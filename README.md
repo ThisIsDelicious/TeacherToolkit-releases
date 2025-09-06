@@ -1,6 +1,6 @@
 # TeacherToolkit
 
-Fully offline toolkit for teachers, designed for old hardware and slow internet conntections.      
+Fully offline toolkit for teachers, designed for old hardware and slow internet connections.      
 
 **To do:**
 
