@@ -6,3 +6,4 @@ Fully offline toolkit for teachers, designed with old hardware and slow internet
 
 - Dark mode
 - Full screen timers
+- Improve updater visualisation
